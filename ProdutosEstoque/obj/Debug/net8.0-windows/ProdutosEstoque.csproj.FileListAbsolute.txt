@@ -1,0 +1,16 @@
+C:\Projetos\ProdutosEstoque\ProdutosEstoque\bin\Debug\net8.0-windows\ProdutosEstoque.exe
+C:\Projetos\ProdutosEstoque\ProdutosEstoque\bin\Debug\net8.0-windows\ProdutosEstoque.deps.json
+C:\Projetos\ProdutosEstoque\ProdutosEstoque\bin\Debug\net8.0-windows\ProdutosEstoque.runtimeconfig.json
+C:\Projetos\ProdutosEstoque\ProdutosEstoque\bin\Debug\net8.0-windows\ProdutosEstoque.dll
+C:\Projetos\ProdutosEstoque\ProdutosEstoque\bin\Debug\net8.0-windows\ProdutosEstoque.pdb
+C:\Projetos\ProdutosEstoque\ProdutosEstoque\obj\Debug\net8.0-windows\ProdutosEstoque.csproj.GenerateResource.cache
+C:\Projetos\ProdutosEstoque\ProdutosEstoque\obj\Debug\net8.0-windows\ProdutosEstoque.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\ProdutosEstoque\ProdutosEstoque\obj\Debug\net8.0-windows\ProdutosEstoque.AssemblyInfoInputs.cache
+C:\Projetos\ProdutosEstoque\ProdutosEstoque\obj\Debug\net8.0-windows\ProdutosEstoque.AssemblyInfo.cs
+C:\Projetos\ProdutosEstoque\ProdutosEstoque\obj\Debug\net8.0-windows\ProdutosEstoque.csproj.CoreCompileInputs.cache
+C:\Projetos\ProdutosEstoque\ProdutosEstoque\obj\Debug\net8.0-windows\ProdutosEstoque.dll
+C:\Projetos\ProdutosEstoque\ProdutosEstoque\obj\Debug\net8.0-windows\refint\ProdutosEstoque.dll
+C:\Projetos\ProdutosEstoque\ProdutosEstoque\obj\Debug\net8.0-windows\ProdutosEstoque.pdb
+C:\Projetos\ProdutosEstoque\ProdutosEstoque\obj\Debug\net8.0-windows\ProdutosEstoque.genruntimeconfig.cache
+C:\Projetos\ProdutosEstoque\ProdutosEstoque\obj\Debug\net8.0-windows\ref\ProdutosEstoque.dll
+C:\Projetos\ProdutosEstoque\ProdutosEstoque\obj\Debug\net8.0-windows\ProdutosEstoque.FormTelaPrincipal.resources
