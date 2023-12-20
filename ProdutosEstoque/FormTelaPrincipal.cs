@@ -62,8 +62,9 @@ namespace ProdutosEstoque
 
         private void RealizaOperacao(string tipoOperacao)
         {
-            produto.Nome = txtDescricao.Text;
-            produto.Preco = double.Parse(txtPreco.Text);
+            
+            produto.setPreco(double.Parse(txtPreco.Text));
+            produto.SetNome(txtDescricao.Text.ToString());
             if (tipoOperacao == "adicionar")
             {
                 produto.AdicionarProduto(int.Parse(txtQuantidade.Text));
@@ -76,8 +77,8 @@ namespace ProdutosEstoque
 
         private void LerDados()
         {
-            txtEstoqueTotal.Text = produto.QuantidadeEstoque.ToString("F2", CultureInfo.InvariantCulture);
-            txtValorTotal.Text = produto.ValorTotalEstoque.ToString("F2", CultureInfo.InvariantCulture);
+            txtEstoqueTotal.Text = produto.GetQuantidadeEstoque().ToString("F2", CultureInfo.InvariantCulture);
+            txtValorTotal.Text = produto.GetValorTotalEstoque().ToString("F2", CultureInfo.InvariantCulture);
             lblDadosProduto.Text = produto.ToString();
         }
 

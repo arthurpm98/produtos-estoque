@@ -14,3 +14,4 @@ C:\Projetos\ProdutosEstoque\ProdutosEstoque\obj\Debug\net8.0-windows\ProdutosEst
 C:\Projetos\ProdutosEstoque\ProdutosEstoque\obj\Debug\net8.0-windows\ProdutosEstoque.genruntimeconfig.cache
 C:\Projetos\ProdutosEstoque\ProdutosEstoque\obj\Debug\net8.0-windows\ref\ProdutosEstoque.dll
 C:\Projetos\ProdutosEstoque\ProdutosEstoque\obj\Debug\net8.0-windows\ProdutosEstoque.FormTelaPrincipal.resources
+C:\Projetos\ProdutosEstoque\ProdutosEstoque\obj\Debug\net8.0-windows\ProdutosEstoque.sourcelink.json
